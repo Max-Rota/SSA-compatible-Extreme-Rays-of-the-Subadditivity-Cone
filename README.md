@@ -1,4 +1,4 @@
-# SSA-compatible Extreme Rays of the Subadditivity Cone (SAC) #
+# SSA-compatible Extreme Rays of the Subadditivity Cone #
 
 The subadditivity cone (SAC) is the polyhedral cone in entropy space defined by all instances of the subadditivity (and Araki-Lieb) inequality
 for a given number of parties ${\sf N}$, and it is an outer bound for the quantum entropy cone. 
