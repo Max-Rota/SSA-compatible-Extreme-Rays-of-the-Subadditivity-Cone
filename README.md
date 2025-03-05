@@ -33,7 +33,7 @@ When the exact number is unknown, the most up to date range is provided.
 
 If you find this data useful for your research, please consider citing the following papers.
 
- * Derivation of all extreme rays at ${\sf N}=6$ and construction of 150 graph models, from [arXiv:2412.15364](https://arxiv.org/abs/2412.15364):
+ * Derivation of all extreme rays at ${\sf N}=6$ and construction of 150 graph models, [arXiv:2412.15364](https://arxiv.org/abs/2412.15364):
 ~~~bibtex
   @article{He:2024xzq,
     author = "He, Temple and Hubeny, Veronika E. and Rota, Massimiliano",
@@ -46,6 +46,43 @@ If you find this data useful for your research, please consider citing the follo
     year = "2024"
   }
 ~~~
+
+* Construction of a hypergraph model for one of the ${\sf N}=6$ extreme rays, [arXiv:2312.04074](https://arxiv.org/abs/2312.04074):
+~~~bibtex
+@article{He:2023aif,
+    author = "He, Temple and Hubeny, Veronika E. and Rota, Massimiliano",
+    title = "{Inner bounding the quantum entropy cone with subadditivity and subsystem coarse grainings}",
+    eprint = "2312.04074",
+    archivePrefix = "arXiv",
+    primaryClass = "quant-ph",
+    reportNumber = "CALT-TH 2023-050",
+    doi = "10.1103/PhysRevA.109.052407",
+    journal = "Phys. Rev. A",
+    volume = "109",
+    number = "5",
+    pages = "052407",
+    year = "2024"
+}
+~~~
+
+* Construction of a hypergraph model for one of the ${\sf N}=6$ extreme rays, [arXiv:2307.10137](https://arxiv.org/abs/2307.10137):
+~~~bibtex
+@article{He:2023cco,
+    author = "He, Temple and Hubeny, Veronika E. and Rota, Massimiliano",
+    title = "{Gap between holographic and quantum mechanical extreme rays of the subadditivity cone}",
+    eprint = "2307.10137",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    reportNumber = "CALT-TH 2023-027",
+    doi = "10.1103/PhysRevD.109.L041901",
+    journal = "Phys. Rev. D",
+    volume = "109",
+    number = "4",
+    pages = "L041901",
+    year = "2024"
+}
+~~~
+
 
 
 
